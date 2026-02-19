@@ -14,7 +14,7 @@ An AI-powered tool that generates polished, professional emails based on your in
 ### Prerequisites
 
 - Python 3.8 or higher
-- OpenAI API key ([Get one here](https://platform.openai.com/api-keys))
+
 ## API Setup: Google Gemini (Recommended)
 
 **Why Gemini?**
