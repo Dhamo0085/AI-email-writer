@@ -41,30 +41,14 @@ If you prefer OpenAI (requires credit card after free trial):
 1. Get key from [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 2. Add to `.env`: `OPENAI_API_KEY=sk-proj-...`
 3. Uncomment OpenAI code in `app.py`
-```
 
----
-
-## **FOR YOUR SESSION 3 STUDENTS**
-
-Update your session email:
-```
-Important Update: We're using Google Gemini API (Free!)
-
-Instead of OpenAI, we'll use Google's Gemini API which has:
-- 60 requests/min (vs OpenAI's 3/min on free tier)
-- No credit card required
-- Better for learning and experimentation
-
-Get your FREE API key before class:
-https://makersuite.google.com/app/apikey
 
 ### Installation
 
 1. **Clone or download this repository**
 ```bash
 git clone <repository-url>
-cd professional-email-generator
+cd ai-email-writer
 ```
 
 2. **Install dependencies**
