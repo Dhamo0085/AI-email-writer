@@ -206,11 +206,6 @@ By building this project, you've learned:
 
 This project is for educational purposes as part of the AI Integration & Innovation Bootcamp at Northeastern University.
 
-## 🙋 Questions?
-
-- **Instructor**: Dhamodaran Selvam
-- **Discord**: [Channel Link]
-- **Email**: [Your Email]
 
 ## 🌟 Acknowledgments
 
